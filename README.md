@@ -1,4 +1,8 @@
-如何利用 google sheet 和 google 內建的 GAS (google app script ) API 來做一個 leetcode 刷題統計試算表。
+# 利用 GAS (google app script ) API 和 google sheet 來做一個 leetcode 刷題統計表。
+
+### 如何利用 google sheet 和 google 內建的 GAS (google app script ) API 來做一個 leetcode 刷題統計試算表。
+
+網頁好讀版：[`https://medium.com/@julianlin_44495/%E5%88%A9%E7%94%A8gas-google-app-script-api-%E5%92%8Cgoogle-sheet%E4%BE%86%E5%81%9A%E4%B8%80%E5%80%8B-leetcode%E5%88%B7%E9%A1%8C%E7%B5%B1%E8%A8%88%E8%A1%A8-23747e53387f`](https://medium.com/@julianlin_44495/%E5%88%A9%E7%94%A8gas-google-app-script-api-%E5%92%8Cgoogle-sheet%E4%BE%86%E5%81%9A%E4%B8%80%E5%80%8B-leetcode%E5%88%B7%E9%A1%8C%E7%B5%B1%E8%A8%88%E8%A1%A8-23747e53387f)
 
 想要找軟體工作的畢業生，必定都會經過刷題這個痛苦的環節，如何讓自己刷題刷的不那麼痛苦以及追蹤自己的 progress 當然是至關重要。
 
